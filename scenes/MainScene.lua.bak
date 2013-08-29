@@ -410,10 +410,7 @@ function MainScene:onEnter()
     self:checkUpdate()    
     
     
-    --增加几句测试合并
-    
     
 end
 
 return MainScene
-
