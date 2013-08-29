@@ -411,7 +411,7 @@ function MainScene:onEnter()
     
     
     --增加几句测试合并
-    
+    --继续测试
     
 end
 
